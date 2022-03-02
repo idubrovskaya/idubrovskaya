@@ -1,6 +1,6 @@
 <div align='center'> <h1> 👋 Hi there! I'm Irina </h1> </div>
 
-<img src='https://github.com/idubrovskaya/idubrovskaya/blob/main/Assets/girl_developer.gif' align='right'>
+<img src='https://github.com/idubrovskaya/idubrovskaya/blob/main/Assets/girl_developer.gif' align='right' width='450'>
 
 ### Things about me 😛 :
 
