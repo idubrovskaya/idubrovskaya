@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 - 📖 Improving my _English skills_
-- 💻 I'm currently working on Blog and Spotify
+- 💻 I'm currently working on [Blog](https://github.com/idubrovskaya/Blog) and Spotify
 - 💔 I have a **love/hate** relationship with programming
 - 🏋️‍♀️ Like spending free time at the gym
 - 🎯 2022 Goal: realize my ambitions in the IT field
